@@ -1,2 +1,2 @@
 # terraform-sample
-A basic two tier application with terraform
+VPC setup with terraform with ec2 NAT instances in Private Subnet
